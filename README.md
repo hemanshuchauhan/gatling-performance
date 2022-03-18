@@ -70,7 +70,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repo
    ```sh
-   git clone https://pscode.lioncloud.net/sumsharm3/gatling-performance-testing-accelerator.git
+   git clone 
    ```
 2. Build project
    ```sh
